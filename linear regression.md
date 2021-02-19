@@ -2,6 +2,8 @@
 
 模型: $y=Xw+\epsilon$, 即X\in R_{n\times k}，\mathbit{w}\in R_{k\times1}，\mathbit{\varepsilon}\in R_{n\times1}\ （有n个样本，k个变量）
 
+$$f(x)=f_0(x)+\sum_{t=1}^Tlearningrate * f_t(x)$$
+
 五条基本假设：
 1，存在线性关系y=Xw+\varepsilon	
 2，X是确定值，且满秩可逆，即不存在共线性
