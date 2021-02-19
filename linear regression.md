@@ -1,6 +1,6 @@
 线性回归
 
-模型：\mathbit{y}=\mathbit{Xw}+\mathbit{\varepsilon}, 即X\in R_{n\times k}，\mathbit{w}\in R_{k\times1}，\mathbit{\varepsilon}\in R_{n\times1}\ （有n个样本，k个变量）
+模型: $y=Xw+\epsilon}, 即X\in R_{n\times k}，\mathbit{w}\in R_{k\times1}，\mathbit{\varepsilon}\in R_{n\times1}\ （有n个样本，k个变量）
 
 五条基本假设：
 1，存在线性关系y=Xw+\varepsilon	
